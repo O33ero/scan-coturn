@@ -1,0 +1,206 @@
+[
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/client",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnclient.dir/ns_turn_ioaddr.c.o -c /Users/19789758/Documents/C/coturn/src/client/ns_turn_ioaddr.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/client/ns_turn_ioaddr.c",
+  "output": "src/client/CMakeFiles/turnclient.dir/ns_turn_ioaddr.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/client",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnclient.dir/ns_turn_msg_addr.c.o -c /Users/19789758/Documents/C/coturn/src/client/ns_turn_msg_addr.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/client/ns_turn_msg_addr.c",
+  "output": "src/client/CMakeFiles/turnclient.dir/ns_turn_msg_addr.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/client",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnclient.dir/ns_turn_msg.c.o -c /Users/19789758/Documents/C/coturn/src/client/ns_turn_msg.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/client/ns_turn_msg.c",
+  "output": "src/client/CMakeFiles/turnclient.dir/ns_turn_msg.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/server",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turn_server.dir/ns_turn_allocation.c.o -c /Users/19789758/Documents/C/coturn/src/server/ns_turn_allocation.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/server/ns_turn_allocation.c",
+  "output": "src/server/CMakeFiles/turn_server.dir/ns_turn_allocation.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/server",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turn_server.dir/ns_turn_maps_rtcp.c.o -c /Users/19789758/Documents/C/coturn/src/server/ns_turn_maps_rtcp.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/server/ns_turn_maps_rtcp.c",
+  "output": "src/server/CMakeFiles/turn_server.dir/ns_turn_maps_rtcp.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/server",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turn_server.dir/ns_turn_maps.c.o -c /Users/19789758/Documents/C/coturn/src/server/ns_turn_maps.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/server/ns_turn_maps.c",
+  "output": "src/server/CMakeFiles/turn_server.dir/ns_turn_maps.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/server",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turn_server.dir/ns_turn_server.c.o -c /Users/19789758/Documents/C/coturn/src/server/ns_turn_server.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/server/ns_turn_server.c",
+  "output": "src/server/CMakeFiles/turn_server.dir/ns_turn_server.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/common",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turncommon.dir/apputils.c.o -c /Users/19789758/Documents/C/coturn/src/apps/common/apputils.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/common/apputils.c",
+  "output": "src/apps/common/CMakeFiles/turncommon.dir/apputils.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/common",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turncommon.dir/ns_turn_utils.c.o -c /Users/19789758/Documents/C/coturn/src/apps/common/ns_turn_utils.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/common/ns_turn_utils.c",
+  "output": "src/apps/common/CMakeFiles/turncommon.dir/ns_turn_utils.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/common",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turncommon.dir/stun_buffer.c.o -c /Users/19789758/Documents/C/coturn/src/apps/common/stun_buffer.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/common/stun_buffer.c",
+  "output": "src/apps/common/CMakeFiles/turncommon.dir/stun_buffer.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/natdiscovery",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/apps/natdiscovery -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnutils_natdiscovery.dir/natdiscovery.c.o -c /Users/19789758/Documents/C/coturn/src/apps/natdiscovery/natdiscovery.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/natdiscovery/natdiscovery.c",
+  "output": "src/apps/natdiscovery/CMakeFiles/turnutils_natdiscovery.dir/natdiscovery.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/oauth",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/apps/oauth -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnutils_oauth.dir/oauth.c.o -c /Users/19789758/Documents/C/coturn/src/apps/oauth/oauth.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/oauth/oauth.c",
+  "output": "src/apps/oauth/CMakeFiles/turnutils_oauth.dir/oauth.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/peer",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/apps/peer -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnutils_peer.dir/mainudpserver.c.o -c /Users/19789758/Documents/C/coturn/src/apps/peer/mainudpserver.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/peer/mainudpserver.c",
+  "output": "src/apps/peer/CMakeFiles/turnutils_peer.dir/mainudpserver.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/peer",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/apps/peer -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnutils_peer.dir/udpserver.c.o -c /Users/19789758/Documents/C/coturn/src/apps/peer/udpserver.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/peer/udpserver.c",
+  "output": "src/apps/peer/CMakeFiles/turnutils_peer.dir/udpserver.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/mainrelay.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/mainrelay.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/mainrelay.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/mainrelay.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/netengine.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/netengine.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/netengine.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/netengine.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/libtelnet.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/libtelnet.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/libtelnet.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/libtelnet.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/turn_admin_server.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/turn_admin_server.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/turn_admin_server.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/turn_admin_server.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/tls_listener.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/tls_listener.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/tls_listener.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/tls_listener.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/dtls_listener.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/dtls_listener.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/dtls_listener.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/dtls_listener.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/ns_ioalib_engine_impl.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/ns_ioalib_engine_impl.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/ns_ioalib_engine_impl.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/ns_ioalib_engine_impl.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/turn_ports.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/turn_ports.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/turn_ports.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/turn_ports.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/http_server.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/http_server.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/http_server.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/http_server.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/acme.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/acme.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/acme.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/acme.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/userdb.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/userdb.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/userdb.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/userdb.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/dbdrivers/dbdriver.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/dbdrivers/dbdriver.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/dbdrivers/dbdriver.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/dbdrivers/dbdriver.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/prom_server.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/prom_server.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/prom_server.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/prom_server.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/dbdrivers/dbd_redis.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/dbdrivers/dbd_redis.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/dbdrivers/dbd_redis.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/dbdrivers/dbd_redis.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/relay",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -DTURN_NO_MONGO -DTURN_NO_MYSQL -DTURN_NO_PQ -DTURN_NO_PROMETHEUS -DTURN_NO_SCTP -DTURN_NO_SYSTEMD -DTURN_NO_THREAD_BARRIERS -I/Users/19789758/Documents/C/coturn/src/apps/relay -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnserver.dir/dbdrivers/dbd_sqlite.c.o -c /Users/19789758/Documents/C/coturn/src/apps/relay/dbdrivers/dbd_sqlite.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/relay/dbdrivers/dbd_sqlite.c",
+  "output": "src/apps/relay/CMakeFiles/turnserver.dir/dbdrivers/dbd_sqlite.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/rfc5769",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/apps/rfc5769 -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnutils_rfc5769check.dir/rfc5769check.c.o -c /Users/19789758/Documents/C/coturn/src/apps/rfc5769/rfc5769check.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/rfc5769/rfc5769check.c",
+  "output": "src/apps/rfc5769/CMakeFiles/turnutils_rfc5769check.dir/rfc5769check.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/stunclient",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/apps/stunclient -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnutils_stunclient.dir/stunclient.c.o -c /Users/19789758/Documents/C/coturn/src/apps/stunclient/stunclient.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/stunclient/stunclient.c",
+  "output": "src/apps/stunclient/CMakeFiles/turnutils_stunclient.dir/stunclient.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/uclient",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/apps/uclient -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnutils_uclient.dir/uclient.c.o -c /Users/19789758/Documents/C/coturn/src/apps/uclient/uclient.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/uclient/uclient.c",
+  "output": "src/apps/uclient/CMakeFiles/turnutils_uclient.dir/uclient.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/uclient",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/apps/uclient -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnutils_uclient.dir/startuclient.c.o -c /Users/19789758/Documents/C/coturn/src/apps/uclient/startuclient.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/uclient/startuclient.c",
+  "output": "src/apps/uclient/CMakeFiles/turnutils_uclient.dir/startuclient.c.o"
+},
+{
+  "directory": "/Users/19789758/Documents/C/coturn/src/apps/uclient",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DTURN_NO_HIREDIS -I/Users/19789758/Documents/C/coturn/src/apps/uclient -I/Users/19789758/Documents/C/coturn/src/apps/common -I/Users/19789758/Documents/C/coturn/src/server -I/Users/19789758/Documents/C/coturn/src -I/Users/19789758/Documents/C/coturn/src/client -I/Users/19789758/homebrew/Cellar/libevent/2.1.12_1/include -isystem /Users/19789758/homebrew/Cellar/openssl@3/3.1.3/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -o CMakeFiles/turnutils_uclient.dir/mainuclient.c.o -c /Users/19789758/Documents/C/coturn/src/apps/uclient/mainuclient.c",
+  "file": "/Users/19789758/Documents/C/coturn/src/apps/uclient/mainuclient.c",
+  "output": "src/apps/uclient/CMakeFiles/turnutils_uclient.dir/mainuclient.c.o"
+}
+]
